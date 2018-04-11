@@ -1,0 +1,7 @@
+c:\users\kadooka.satoshi.fixer\source\repos\BoardGame\BoardGame\bin\Debug\BoardGame.exe.config
+c:\users\kadooka.satoshi.fixer\source\repos\BoardGame\BoardGame\bin\Debug\BoardGame.exe
+c:\users\kadooka.satoshi.fixer\source\repos\BoardGame\BoardGame\bin\Debug\BoardGame.pdb
+c:\users\kadooka.satoshi.fixer\source\repos\BoardGame\BoardGame\obj\Debug\BoardGame.csprojResolveAssemblyReference.cache
+c:\users\kadooka.satoshi.fixer\source\repos\BoardGame\BoardGame\obj\Debug\BoardGame.csproj.CoreCompileInputs.cache
+c:\users\kadooka.satoshi.fixer\source\repos\BoardGame\BoardGame\obj\Debug\BoardGame.exe
+c:\users\kadooka.satoshi.fixer\source\repos\BoardGame\BoardGame\obj\Debug\BoardGame.pdb
